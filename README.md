@@ -18,7 +18,8 @@ Sentiment analysis is using to identifying as well as classifying the sentiments
    Negative sentiment with 30.2% total sentiments as the most sentiment. Second we have Positive sentiment with 27.9% total sentiments. Third is Neutral sentiment with 24.5% total sentiments and fourth or the least sentiment is Irrelevant sentiment with 17.4% total sentiments.
 
 
-<img width="299" alt="Screenshot 2023-08-23 221839" src="https://github.com/tinashdj/Twitter-Sentiment-Analysis/assets/110084624/fe1dec2e-ba00-4e8b-80ec-568f4387df46">
+<img width="360" alt="Screenshot 2023-08-23 222831" src="https://github.com/tinashdj/Twitter-Sentiment-Analysis/assets/110084624/5a7ca519-3b13-4093-8b35-b2f2d3a4a1f5">
+
 
 
 
