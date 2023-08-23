@@ -18,11 +18,13 @@ Negative sentiment with 30.2% total sentiments as the most sentiment. Second we 
 
 <img width="299" alt="Screenshot 2023-08-23 221839" src="https://github.com/tinashdj/Twitter-Sentiment-Analysis/assets/110084624/fe1dec2e-ba00-4e8b-80ec-568f4387df46">
 
+
 2. Showing the top 30 words that appear frequently on positive and negative sentiment.
 
 In Positive sentiment we can see some positive words, like love, good, best, great. In Negative sentiment, instead, we observe lots of swear words. Both Positive and Negative sentiments, the word "game" appears in both sentiments as the top word that appears most often. In Positive sentiment the "game" word appears with more than 2.000 times while in Negative sentiment the "game" word appears more than 3.500 times. In addition to the word "game", other words appear between the number of times more than 500 to almost 2000 times.
    
 <img width="397" alt="Screenshot 2023-08-23 221851" src="https://github.com/tinashdj/Twitter-Sentiment-Analysis/assets/110084624/b55e51d9-7f08-4cf8-9af4-a28fec97d814">
+
 
 3. Showing the frequent words on positive and negative sentiment using WordCloud.
    
