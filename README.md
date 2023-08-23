@@ -20,6 +20,7 @@ Sentiment analysis is using to identifying as well as classifying the sentiments
 
    <img width="360" alt="Screenshot 2023-08-23 222831" src="https://github.com/tinashdj/Twitter-Sentiment-Analysis/assets/110084624/5a7ca519-3b13-4093-8b35-b2f2d3a4a1f5">
 
+   ![FireShot Capture 035 - Twitter Sentiment Analysis - Jupyter Notebook - localhost](https://github.com/tinashdj/Twitter-Sentiment-Analysis/assets/110084624/c6568677-4661-4a01-b7bf-360d288f948f)
 
 
 
