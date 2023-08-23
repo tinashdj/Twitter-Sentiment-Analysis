@@ -12,6 +12,7 @@ Sentiment analysis is using to identifying as well as classifying the sentiments
 4. Removing Stop Words
 
 ## Data Exploration
+
 1. Show the total percentage of each sentiment.
   
 Negative sentiment with 30.2% total sentiments as the most sentiment. Second we have Positive sentiment with 27.9% total sentiments. Third is Neutral sentiment with 24.5% total sentiments and fourth or the least sentiment is Irrelevant sentiment with 17.4% total sentiments.
