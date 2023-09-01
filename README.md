@@ -1,5 +1,5 @@
 # Twitter Sentiment Analysis
-Sentiment analysis is using to identifying as well as classifying the sentiments that are expressed in the text form. Twitter sentiment analysis allows you to keep track of what’s being said or tweets on twitter as an social media. Tweets can often produce a significant amount of sentiment data after analyzed. These data can help us understanding the opinion from people about a variety of topics. This project intends to use various text cleaning techniques to extract information from Tweets. The dataset I am using here for the project of twitter sentiment analysis is downloaded from Kaggle.
+Sentiment analysis is using to identifying as well as classifying the sentiments that are expressed in the text form. Twitter sentiment analysis allows you to keep track of what’s being said or tweets on twitter as a social media. Tweets can often produce a significant amount of sentiment data after analyzed. These data can help us understanding the opinion from people about a variety of topics. This project intends to use various text cleaning techniques to extract information from Tweets. The dataset I am using here for the project of twitter sentiment analysis is downloaded from Kaggle.
 
 ## Data Cleaning
 1. Removing null value
